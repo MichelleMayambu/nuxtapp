@@ -1,5 +1,5 @@
 <template>
-     <h1> the users view </h1>
+    <nuxt-link to="/users">Users</nuxt-link>
 </template>
 
 <script>
